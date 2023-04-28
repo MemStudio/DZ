@@ -10,3 +10,5 @@ Our secret program "PMFR Magic edition"
 
 Lisense code - 966lg128MD84
 By Danila Shaykevich (MemStudio/NotBot)
+
+Это учебный код. Не воспринимать всерьёз
